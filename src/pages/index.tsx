@@ -11,7 +11,7 @@ import { COMPANY_NAME, PROBLEMS, FEATURES, TESTIMONIALS, FAQS } from '../constan
 export default function HomePage() {
   const heroProps = {
     title: 'Transform Your Business Operations Today',
-    subtitle: `${COMPANY_NAME} helps businesses eliminate inefficiency, boost productivity, and increase revenue with our all-in-one solution.`,
+    subtitle: `${COMPANY_NAME} helps businesses eliminate inefficiency`,
     primaryCTA: {
       text: 'Book a Free Demo',
       href: '/calendar'
@@ -27,7 +27,7 @@ export default function HomePage() {
 
   const problemSectionProps = {
     title: 'The Challenges Businesses Face Today',
-    subtitle: "In today's fast-paced business environment, these common problems can significantly impact your growth and profitability.",
+    subtitle: "In today's fast-paced business environment",
     problems: PROBLEMS,
     ctaText: 'Discover the Solution',
     ctaHref: '/solution',
