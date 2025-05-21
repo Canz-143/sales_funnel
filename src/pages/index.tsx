@@ -47,7 +47,7 @@ export default function HomePage() {
   };
 
   const socialProofProps = {
-    title: 'What Our Clients Say',
+    title: 'What Do Our Clients Say',
     subtitle: "Don't just take our word for it. Hear from the businesses that have transformed their operations with our platform.",
     testimonials: TESTIMONIALS,
     trustedCompanies: ['ACME Inc.', 'TechCorp', 'GrowthBiz', 'InnovateNow', 'FutureTech'],
