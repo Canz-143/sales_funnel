@@ -36,7 +36,7 @@ export default function HomePage() {
 
   const solutionSectionProps = {
     title: 'Streamlined Solutions for Business Growth',
-    subtitle: 'Our comprehensive platform addresses these challenges with powerful yet easy-to-use features.',
+    subtitle: 'Our comprehensive platform addresses these challenges',
     features: FEATURES,
     image: 'https://images.pexels.com/photos/3182812/pexels-photo-3182812.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     imageAlt: 'Our platform in action',
@@ -48,7 +48,7 @@ export default function HomePage() {
 
   const socialProofProps = {
     title: 'What Do Our Clients Say',
-    subtitle: "Don't just take our word for it. Hear from the businesses that have transformed their operations with our platform.",
+    subtitle: "Don't just take our word for it.",
     testimonials: TESTIMONIALS,
     trustedCompanies: ['ACME Inc.', 'TechCorp', 'GrowthBiz', 'InnovateNow', 'FutureTech'],
     satisfactionRate: {
