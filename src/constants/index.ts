@@ -1,6 +1,6 @@
 import { TestimonialType, FAQItemType, FeatureType, ProblemType } from '../types';
 
-export const COMPANY_NAME = "BlueSolutions";
+export const COMPANY_NAME = "10xFlow";
 
 export const PROBLEMS: ProblemType[] = [
   {
